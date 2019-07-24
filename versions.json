@@ -1,11 +1,11 @@
 {
     "versions": [
         {
-            "version": 5.4,
-            "url": "http://localhost:8094"
+            "version": "5.4",
+            "url": "http://localhost:9192/5_4"
         },
         {
-            "version": 6.0,
+            "version": "6.0",
             "url": "http://localhost:9192"
         }
     ]
